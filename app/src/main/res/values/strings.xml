@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MessageBook</string>
+    <string name="input_message">Input message here</string>
+    <string name="submit">Submit</string>
+    <string name="null_message">You didn\'t input any message!</string>
+    <string name="dialog_title">Delete Message</string>
+    <string name="dialog_message">Would you like to delete this message?</string>
+    <string name="delete_fail">Delete Failed</string>
+    <string name="query_fail">fetch data failed</string>
+    <string name="submit_fail">submit message failed, please leave message again!</string>
+</resources>
